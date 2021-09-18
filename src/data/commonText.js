@@ -31,7 +31,9 @@ let commonText = {
     "ดาว" : "โสด",
     "tmrwithu" : "0875696897",
     "yanisa" : "แชทยังว่างคนข้างๆยังไม่มี"
-
+    "arm_ktpt" : "0800052455"
+    "กัส" : "นักเย็ดบางมด"
+    "threerut" : "ทันเวลาพอดี"
 }
 
 module.exports = commonText;
